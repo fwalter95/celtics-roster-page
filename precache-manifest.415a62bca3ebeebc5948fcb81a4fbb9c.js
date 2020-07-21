@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4eb52d7980b0ea29fe87e41fa5501508",
+    "revision": "e04bd0892fc3347f11dd6e1881919532",
     "url": "/celtics-roster-page/index.html"
   },
   {
-    "revision": "62d79d5489418e57dfd6",
+    "revision": "49c0718e16b21cafee32",
     "url": "/celtics-roster-page/static/css/main.9accb2c3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/celtics-roster-page/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62d79d5489418e57dfd6",
-    "url": "/celtics-roster-page/static/js/main.c68afbe6.chunk.js"
+    "revision": "49c0718e16b21cafee32",
+    "url": "/celtics-roster-page/static/js/main.363342a4.chunk.js"
   },
   {
     "revision": "6ff0b6cacc9071683237",

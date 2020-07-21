@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/celtics-roster-page/static/css/main.9accb2c3.chunk.css",
-    "main.js": "/celtics-roster-page/static/js/main.c68afbe6.chunk.js",
-    "main.js.map": "/celtics-roster-page/static/js/main.c68afbe6.chunk.js.map",
+    "main.js": "/celtics-roster-page/static/js/main.363342a4.chunk.js",
+    "main.js.map": "/celtics-roster-page/static/js/main.363342a4.chunk.js.map",
     "runtime-main.js": "/celtics-roster-page/static/js/runtime-main.dbe67e4a.js",
     "runtime-main.js.map": "/celtics-roster-page/static/js/runtime-main.dbe67e4a.js.map",
     "static/js/2.e1a0f1bd.chunk.js": "/celtics-roster-page/static/js/2.e1a0f1bd.chunk.js",
     "static/js/2.e1a0f1bd.chunk.js.map": "/celtics-roster-page/static/js/2.e1a0f1bd.chunk.js.map",
     "index.html": "/celtics-roster-page/index.html",
-    "precache-manifest.3c5cb8db48aceea687aabbbdb6e02be0.js": "/celtics-roster-page/precache-manifest.3c5cb8db48aceea687aabbbdb6e02be0.js",
+    "precache-manifest.415a62bca3ebeebc5948fcb81a4fbb9c.js": "/celtics-roster-page/precache-manifest.415a62bca3ebeebc5948fcb81a4fbb9c.js",
     "service-worker.js": "/celtics-roster-page/service-worker.js",
     "static/css/main.9accb2c3.chunk.css.map": "/celtics-roster-page/static/css/main.9accb2c3.chunk.css.map",
     "static/js/2.e1a0f1bd.chunk.js.LICENSE.txt": "/celtics-roster-page/static/js/2.e1a0f1bd.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dbe67e4a.js",
     "static/js/2.e1a0f1bd.chunk.js",
     "static/css/main.9accb2c3.chunk.css",
-    "static/js/main.c68afbe6.chunk.js"
+    "static/js/main.363342a4.chunk.js"
   ]
 }
