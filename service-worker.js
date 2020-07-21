@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/celtics-roster-page/precache-manifest.415a62bca3ebeebc5948fcb81a4fbb9c.js"
+  "/celtics-roster-page/precache-manifest.10678b390b2fd6a0a6a2ad56195aced8.js"
 );
 
 self.addEventListener('message', (event) => {
