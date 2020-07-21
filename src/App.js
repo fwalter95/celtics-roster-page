@@ -17,7 +17,7 @@ class App extends Component {
   }
 
   componentDidMount() {
-    fetch("http://data.nba.net/v2015/json/mobile_teams/nba/2019/teams/celtics_roster.json")
+    fetch("https://data.nba.net/v2015/json/mobile_teams/nba/2019/teams/celtics_roster.json")
     .then(response => response.json())
     .then(players => this.setState({players: players.t.pl}));
   }
